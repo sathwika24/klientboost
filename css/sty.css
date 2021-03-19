@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding: 0;
+    background:#fff ;
+    font-family: 'raleway',sans-serif;
+}
+.banner{
+    height:100%;
+    width:100%;
+    background: url('../images/cloud.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.info{
+    margin-top: 50px;
+}
+.info1{
+    margin-top: 200px;
+}
